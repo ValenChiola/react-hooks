@@ -36,5 +36,5 @@ export const useFecth = (url) => {
             })
     }, [url])
 
-    return state
+    return state;
 }
